@@ -1,3 +1,2 @@
 My name is Seyyed Mohsen Bakamal.
-I'm student of IUST.
-I'm CE Student.
+I'm not student of IUST.
